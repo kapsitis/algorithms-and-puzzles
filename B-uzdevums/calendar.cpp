@@ -8,11 +8,6 @@ Dots dienu skaits N. Uzrakstīt funkciju, lai atrastu to datumu,
 kas būs tieši pēc N dienām.
 */
 
-// Funkcijas - ar vairākiem skaitlīšiem...
-
-// Funkcijas prototips:   
-// atgr.vērtība funkcvārds(tips parametri...) { ... }
-
 #include <iostream>
 
 using namespace std;
