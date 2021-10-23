@@ -32,3 +32,8 @@
 *.exe
 *.out
 *.app
+
+# Python Sphinx
+**/_build/*
+!Handout-Funkcijas/_build/latex/*.pdf
+**/_static/*

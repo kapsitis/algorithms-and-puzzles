@@ -1,41 +1,9 @@
 # Algoritmi un programmēšana
 
-Testa fails **calendar-test01.txt**:
+LU DatZ1165 kursa "Algoritmi un Programmēšana" materiāli.
 
-``` 
-2021 10 21 10
-1
-2021 10 21 11
-1
-2021 10 21 40
-1
-2021 10 21 41
-1
-2021 10 21 71
-1
-2021 10 21 72
-1
-2021 10 21 100
-1
-1991 08 23 10000
-1
-2021 10 21 130
-1
-2021 10 21 863
-0
-```
+Ko var atrast šajā projektā: 
 
-Sagaidāmā izvade **calendar-expected01.txt**
-
-```
-2021-10-31
-2021-11-1
-2021-11-30
-2021-12-1
-2021-12-31
-2022-1-1
-2022-1-29
-2018-12-26
-2022-2-28
-2024-2-29
-```
+* **Handout-Funkcijas** - Izdales materiāls par funkcijām
+* **B-uzdevumu parodijas** - Daži uzdevumi, kas pēc sarežģītības līmeņa un idejām līdzinās B uzdevumam (bet nesakrīt 
+  ne ar viena studenta B uzdevumu. 
