@@ -34,6 +34,8 @@
 *.app
 
 # Python Sphinx
-**/_build/*
+**/_build/doctrees/*
+**/_build/html/*
+**/_build/latex/*
 !Handout-Funkcijas/_build/latex/*.pdf
 **/_static/*
