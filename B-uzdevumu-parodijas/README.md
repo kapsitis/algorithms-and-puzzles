@@ -10,7 +10,7 @@ Dots datums no trim skaitļiem: YYYY, MM un DD.
 Dots dienu skaits N. Uzrakstīt funkciju, lai atrastu to datumu,
 kas būs tieši pēc N dienām.
 
-Implementāciju sk. šajā repozitorijā: **calendar.cpp*
+Implementāciju sk. šajā repozitorijā: **calendar.cpp**
 
 Testa fails **calendar-test01.txt**:
 
