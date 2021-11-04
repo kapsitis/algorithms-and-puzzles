@@ -39,3 +39,4 @@
 **/_build/latex/*
 !Handout-Funkcijas/_build/latex/*.pdf
 **/_static/*
+.idea/*
