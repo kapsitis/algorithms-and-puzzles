@@ -40,3 +40,4 @@
 !Handout-Funkcijas/_build/latex/*.pdf
 **/_static/*
 .idea/*
+*_numpy.py
