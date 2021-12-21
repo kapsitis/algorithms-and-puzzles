@@ -8,6 +8,7 @@ def count_operations(N, K, SEQ1, SEQ2):
     total = 0
     for i in range(0, N - K + 1):
         diff = (SEQ2[i] - SEQ3[i]) % 10
+        #print('diff = {}'.format(diff))
         total += diff
         for k in range(0, K):
             SEQ3[i+k] = (SEQ3[i+k] + diff) % 10

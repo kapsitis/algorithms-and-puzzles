@@ -15,14 +15,19 @@ import copy
 #K = 1000
 #fileName = "uzd01test08.txt"
 
-N = 20000
-K = 10000
-fileName = "uzd01test09.txt"
+#N = 20000
+#K = 10000
+#fileName = "uzd01test09.txt"
 
 
 #N = 200000
 #K = 100000
 #fileName = "uzd01test10.txt"
+
+N = 10
+K = 6
+fileName = "uzd01test11.txt"
+
 
 
 
