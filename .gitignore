@@ -41,3 +41,6 @@
 **/_static/*
 .idea/*
 *_numpy.py
+
+.DS_Store
+**/__pycache__/*

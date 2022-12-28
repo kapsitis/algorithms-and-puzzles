@@ -6,4 +6,5 @@ Ko var atrast šajā projektā:
 
 * **Handout-Funkcijas** - Izdales materiāls par funkcijām
 * **B-uzdevumu parodijas** - Daži uzdevumi, kas pēc sarežģītības līmeņa un idejām līdzinās B uzdevumam (bet nesakrīt 
-  ne ar viena studenta B uzdevumu. 
+  ne ar viena studenta B uzdevumu.
+* `puzzle_cross`, u.c. - programmēšanas vingrinājumi par dažādām tēmām. 
